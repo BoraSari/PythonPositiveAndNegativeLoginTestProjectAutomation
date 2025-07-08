@@ -87,9 +87,6 @@ Description: Verifies that the website handles invalid login attempts correctly 
 
 Flow: Navigates to the N11 login page, enters invalid email and/or password (from .env), clicks the login button, and asserts that an expected error message is displayed (e.g., "Kullanıcı adı veya şifre hatalı" - Username or password incorrect).
 
-Screenshots/GIFs
-(Lütfen buraya test yürütmesini, başarılı giriş ekranını ve hatalı giriş denemelerindeki hata mesajlarını gösteren ekran görüntüleri veya GIF'ler ekleyerek projenin işlevselliğini görsel olarak sergileyin.)
-
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -181,8 +178,6 @@ Negatif Giriş Testi (Geçersiz Kimlik Bilgileri):
 Açıklama: Web sitesinin geçersiz giriş denemelerini uygun hata mesajları görüntüleyerek doğru bir şekilde ele aldığını doğrular.
 
 Akış: N11 giriş sayfasına gider, geçersiz e-posta ve/veya parola ( .env dosyasından) girer, giriş düğmesine tıklar ve beklenen bir hata mesajının görüntülendiğini doğrular (örn: "Kullanıcı adı veya şifre hatalı").
-
-Ekran Görüntüleri/GIF'ler
 
 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır - daha fazla ayrıntı için LICENSE dosyasına bakın.
